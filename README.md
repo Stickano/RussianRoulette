@@ -10,12 +10,16 @@ You decide the amount of bullets to load in the chamber. Well, within the laws o
 The bullets will be loaded randomly in the chamber.
 
 ### Happy Triggering!
-Just navigate to the RussianRoulette.exe file and run it in your terminal! Such 21st century technology!
+Build the project and navigate to the RussianRoulette.exe file, then run it in your terminal! Such 21st century technology!
 
 ```
 cd path/to/exe
 mono RussianRoulette.exe
 ```
+
+<p align="center">
+  <img src="https://github.com/Stickano/RussianRoulette/blob/master/result.gif" />
+</p>
 
 
 #### Singleplayer!
